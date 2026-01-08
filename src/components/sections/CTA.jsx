@@ -22,7 +22,7 @@ const CTA = () => {
               to="/services"
               className="bg-primary-500 text-white px-8 py-3 rounded-lg font-medium border-2 border-white hover:bg-primary-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-600"
             >
-              Наши услуги
+              Our services
             </Link>
           </div>
         </div>
